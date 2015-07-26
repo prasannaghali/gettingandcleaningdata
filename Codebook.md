@@ -1,0 +1,87 @@
+## Codebook for Getting and Cleaning Data Project
+
+- The output file containing the required tidy data consists of 68 columns and 180 rows.
+- The 180 rows consist of 6 activity levels each for 30 subjects with 66 quantitative variables.
+- The first two columns in the data specify the following qualitative data:
+- *subject*: The ID of one of the 30 participants in the experiment
+- *activity*: One of the six activities: *WALKING*, *WALKING UPSTAIRS*, *WALKING DOWNSTAIRS*, *SITTING*, *STANDING*, *LAYING*
+- The measurements are:
+- tBodyAccMeanX
+- tBodyAccMeanY
+- tBodyAccMeanZ
+- tBodyAccStdX
+- tBodyAccStdY
+- tBodyAccStdZ
+- tGravityAccMeanX
+- tGravityAccMeanY
+- tGravityAccMeanZ
+- tGravityAccStdX
+- tGravityAccStdY
+- tGravityAccStdZ
+- tBodyAccJerkMeanX
+- tBodyAccJerkMeanY
+- tBodyAccJerkMeanZ
+- tBodyAccJerkStdX
+- tBodyAccJerkStdY
+- tBodyAccJerkStdZ
+- tBodyGyroMeanX
+- tBodyGyroMeanY
+- tBodyGyroMeanZ
+- tBodyGyroStdX
+- tBodyGyroStdY
+- tBodyGyroStdZ
+- tBodyGyroJerkMeanX
+- tBodyGyroJerkMeanY
+- tBodyGyroJerkMeanZ
+- tBodyGyroJerkStdX
+- tBodyGyroJerkStdY
+- tBodyGyroJerkStdZ
+- tBodyAccMagMean
+- tBodyAccMagStd
+- tGravityAccMagMean
+- tGravityAccMagStd
+- tBodyAccJerkMagMean
+- tBodyAccJerkMagStd
+- tBodyGyroMagMean
+- tBodyGyroMagStd
+- tBodyGyroJerkMagMean
+- tBodyGyroJerkMagStd
+- fBodyAccMeanX
+- fBodyAccMeanY
+- fBodyAccMeanZ
+- fBodyAccStdX
+- fBodyAccStdY
+- fBodyAccStdZ
+- fBodyAccMeanFreqX
+- fBodyAccMeanFreqY
+- fBodyAccMeanFreqZ
+- fBodyAccJerkMeanX
+- fBodyAccJerkMeanY
+- fBodyAccJerkMeanZ
+- fBodyAccJerkStdX
+- fBodyAccJerkStdY
+- fBodyAccJerkStdZ
+- fBodyAccJerkMeanFreqX
+- fBodyAccJerkMeanFreqY
+- fBodyAccJerkMeanFreqZ
+- fBodyGyroMeanX
+- fBodyGyroMeanY
+- fBodyGyroMeanZ
+- fBodyGyroStdX
+- fBodyGyroStdY
+- fBodyGyroStdZ
+- fBodyGyroMeanFreqX
+- fBodyGyroMeanFreqY
+- fBodyGyroMeanFreqZ
+- fBodyAccMagMean
+- fBodyAccMagStd
+- fBodyAccMagMeanFreq
+- fBodyBodyAccJerkMagMean
+- fBodyBodyAccJerkMagStd
+- fBodyBodyAccJerkMagMeanFreq
+- fBodyBodyGyroMagMean
+- fBodyBodyGyroMagStd
+- fBodyBodyGyroMagMeanFreq
+- fBodyBodyGyroJerkMagMean
+- fBodyBodyGyroJerkMagStd
+- fBodyBodyGyroJerkMagMeanFreq
